@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "maintainers": [
+    "Jonathan Bakebwa <jonas@akkadu-team.com>"
+  ],
+  "author": "Jonathan Bakebwa <jonas@akkadu-team.com>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
